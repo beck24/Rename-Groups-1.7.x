@@ -58,6 +58,7 @@ $english = array(
 	'groups:enableblog' => 'Enable ' . $lsingle . ' blog',
 	'blog:enableblog' => 'Enable ' . $lsingle . ' blog',
 	'blog:group' => $usingle . ' blog',
+	 'blog:nogroup' => 'This ' . $lsingle . ' does not have any blog posts yet',
 
 	/*
 	** bookmarks plugin
@@ -66,6 +67,7 @@ $english = array(
 	'bookmarks:group' => $usingle . ' bookmarks',
 	'bookmarks:enablebookmarks' => 'Enable ' . $lsingle . ' bookmarks',
 	'groups:enablebookmarks' => 'Enable ' . $lsingle . ' bookmarks',
+	'bookmarks:nogroup' => 'This ' . $lsingle . ' does not have any bookmarks yet',
 
 	/*
 	** event_calendar plugin
@@ -93,6 +95,7 @@ $english = array(
 	** file plugin
 	*/
 	'file:group' => $usingle . " files",
+	'file:nogroup' => 'This ' . $lsingle . ' does not have any files yet',
 
 	/*
 	** group_contact_list plugin
