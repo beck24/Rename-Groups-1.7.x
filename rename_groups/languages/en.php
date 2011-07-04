@@ -200,6 +200,8 @@ or click below to confirm request:
 	'item:group' => $uplural,
 	'groups:searchtitle' => "Searching for " . $lplural . ": %s",
 	'group:search:startblurb' => $uplural . " matching '%s':",
+	'groups:invitations' => $usingle . ' invitations',
+
 
 	/*
 	** notifications plugin
