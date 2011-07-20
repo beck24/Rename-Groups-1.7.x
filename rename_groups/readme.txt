@@ -21,9 +21,11 @@ Supports the following plugins:
 
 Blog
 Bookmarks
+Custom Index
 Event Calendar
 File
 Group Contact List
+Group Custom Layout
 Groups
 Notifications
 Pages

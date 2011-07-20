@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin_manifest>
     <field key="author" value="Matt Beckett" />
-    <field key="version" value="1.0" />
+    <field key="version" value="1.1" />
     <field key="description" value="Provides the admin the option of renaming Elgg groups to something else.  Supports multiple languages if translations are available." />
     <field key="website" value="http://clever-name.com" />
     <field key="copyright" value="(C) Matt Beckett" />

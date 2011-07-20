@@ -70,6 +70,12 @@ $english = array(
 	'bookmarks:nogroup' => 'This ' . $lsingle . ' does not have any bookmarks yet',
 
 	/*
+	 * 	Custom Index plugin
+	 */
+	'custom:groups' => "Latest " . $lplural,
+	'custom:nogroups' => "There are no " . $lplural . " yet",
+
+	/*
 	** event_calendar plugin
 	*/
 	'event_calendar:group' => $usingle . " calendar",
@@ -204,6 +210,20 @@ or click below to confirm request:
 	'groups:searchtitle' => "Searching for " . $lplural . ": %s",
 	'group:search:startblurb' => $uplural . " matching '%s':",
 	'groups:invitations' => $usingle . ' invitations',
+
+	/*
+	 * Group Custom Layout plugin
+	 */
+	'group_custom_layout' => $usingle . " Custom Layout",
+	'item:object:group_widget' => $usingle . " Widget",
+	'item:object:custom_layout' => $usingle . " Custom Layout",
+	'group_custom_layout:edit' => "Edit " . $usingle . " Layout",
+	'group_custom_layout:edit:title' => "Edit " . $usingle . " Layout",
+	'group_custom_layout:edit:reset:confirm' => "Are you sure you wish to reset the custom " . $lsingle . " layout?",
+	'group_custom_layout:action:reset:error:no_custom' => "This " . $lsingle . " doesn't have a Custom Layout to remove",
+	'group_custom_layout:action:save:error:add_to_group' => "Error while adding Custom Layout to " . $lsingle,
+	'group_custom_layout:action:save:error:no_widget' => "No " . $usingle . " Widget for id: %s",
+	'group_custom_layout:action:save:error:widget_save' => "Error while saving " . $usingle . " Widget: %s",
 
 
 	/*
